@@ -3,9 +3,8 @@ EN este repositorio es donde se ire subiendo todo el contenido y los avances del
 
 ---
 <p align="center">
-  <img src="images/prototipo_badminton.png" width="600">
+  <img src="images/PrototipoIA.png" width="600">
 </p>
----
 
 ## Descripción del Proyecto
 El objetivo del proyecto es el diseño e implementación de un sistema embebido capaz de reconocer distintos tipos de golpeos en bádminton mediante el uso de sensores como acelerometros y giroscopio.
